@@ -1,4 +1,5 @@
-# preprocessed_image_for_CV
+# Preprocessing images for Computer Vision models
+
 Python, Yolo8, OpenCV, numpy
 
 To use with Colab add !pip install ultralytics
